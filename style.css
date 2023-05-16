@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(152, 152, 152);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding: 20px;
+}
+
+button {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    padding: 10px 20px;
+    color:steelblue; 
+}
